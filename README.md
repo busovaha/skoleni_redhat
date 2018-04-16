@@ -1,0 +1,1 @@
+# skoleni_redhat
