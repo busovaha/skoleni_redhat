@@ -1,3 +1,5 @@
+#vyjimky
+
 def jmenovek():
 
     jmeno = str(raw_input("Zadej jmeno: "))

@@ -1,3 +1,4 @@
+# vytiskne ctvercovou sit zadanych rozmeru
 def lichy_radek():
     print(" ..." * n)
 

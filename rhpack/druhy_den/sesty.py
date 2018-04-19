@@ -1,3 +1,4 @@
+#vlastnosti, ktere lze menit pri volani z prikazoveho radku
 import argparse
 
 tridy = {1:"prima", 2:"sekunda", 3:"tercie", 4:"kvarta", 5:"kvinta", 6:"sexta"}

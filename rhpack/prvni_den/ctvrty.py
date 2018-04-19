@@ -1,3 +1,4 @@
+#soubory
 def pocetslov(sez):
     pocet = sum([len(i.split(" ")) for i in sez])
     """

@@ -1,0 +1,5 @@
+#vytvorene prvky pro priklady pouzivane ve vyuce
+aj = {'Lenka Rozkosna', 'Tomas Rozboril', 'Roman Cvrcek', 'Dita Vareckova', 'Milos Cisar', 'Michal Nejezchleba'}
+vareni = {'Jirina Rizkova', 'Michal Nejezchleba', 'Dita Vareckova', 'Adela Polivkova', 'Marek Nesvacil'}
+EUslovnik = {'Belgie':1952, 'Bulharsko':2007, 'Ceska republika':2004, 'Dansko':1973, 'Estonsko':2004, 'Finsko':1995, 'Francie':1952, 'Chorvatsko':2013, 'Irsko':1973, 'Italie':1952, 'Kypr':2004, 'Litva':2004, 'Lotyssko':2004, 'Lucembursko':1952, 'Madarsko':2004, 'Malta':2004, 'Nemecko':1952, 'Nizozemsko':1952, 'Polsko':2004, 'Portugalsko':1986, 'Rakousko':1995, 'Rumunsko':2007, 'Recko':1981, 'Slovensko':2004, 'Slovinsko':2004, 'Spojene kralovstvi':1973, 'Spanelsko':1986, 'Svedsko':1995}
+EUseznam = ['Belgie', 'Bulharsko', 'Ceska republika', 'Dansko', 'Estonsko', 'Finsko', 'Francie', 'Chorvatsko', 'Irsko', 'Italie', 'Kypr', 'Litva', 'Lotyssko', 'Lucembursko', 'Madarsko', 'Malta', 'Nemecko', 'Nizozemsko', 'Polsko', 'Portugalsko', 'Rakousko', 'Rumunsko', 'Recko', 'Slovensko', 'Slovinsko', 'Spojene kralovstvi', 'Spanelsko', 'Svedsko']
